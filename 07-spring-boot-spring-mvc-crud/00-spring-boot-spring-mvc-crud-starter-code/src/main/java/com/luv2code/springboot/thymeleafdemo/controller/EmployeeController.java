@@ -17,6 +17,7 @@ public class EmployeeController {
         employeeService=theEmployeeService;
     }
     @GetMapping("/list")
+
     public String listEmployees(Model theModel){
         List<Employee> theEmployees= employeeService.findAll();
 
