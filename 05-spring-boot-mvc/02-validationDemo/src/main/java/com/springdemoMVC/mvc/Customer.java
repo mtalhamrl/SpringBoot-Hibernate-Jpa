@@ -17,6 +17,7 @@ public class Customer {
     private int freePasses;
     @CourseCode
     //i can give the this rule my rules for exp. coursecode(value"tops",messsage"must start wtih tops")
+    //if i dont it takes default rules.
     private String courseCode;
 
     public String getCourseCode() {
