@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce1f0d30-72d4-47d5-bb84-f8e2e7f9710f" name="Changes" comment="now make databases relation ship one-to-one still but added bi-directional feature. now the instructor detail table is can effect instructor table or i can set the just effect instructor detail table in that example i done it in deleteInstructorDetail">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/advancedmapping/crud/demo/CrudDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/advancedmapping/crud/demo/dao/AppDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/advancedmapping/crud/demo/dao/AppDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/advancedmapping/crud/demo/entity/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/advancedmapping/crud/demo/entity/InstructorDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/advancedmapping/crud/demo/CrudDemoApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2hPFPZb9LHU3fthGhDMzMmjlopF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.CrudDemoApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mehmettalhameral/Desktop/LearningSpring/09-spring-boot-jpe-advanced-mappings/01-jpa-one-to-one-bi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CrudDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="crud-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.advancedmapping.crud.demo.CrudDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce1f0d30-72d4-47d5-bb84-f8e2e7f9710f" name="Changes" comment="" />
+      <created>1717487781343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717487781343</updated>
+      <workItem from="1717487782428" duration="2566000" />
+      <workItem from="1717500272610" duration="2979000" />
+      <workItem from="1717568996030" duration="557000" />
+      <workItem from="1717570654954" duration="2056000" />
+    </task>
+    <task id="LOCAL-00001" summary="made commend line app for understand one-to-one relation ship in database. but this only uni relationship.!!">
+      <option name="closed" value="true" />
+      <created>1717569420276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717569420277</updated>
+    </task>
+    <task id="LOCAL-00002" summary="now make databases relation ship one-to-one still but added bi-directional feature. now the instructor detail table is can effect instructor table or i can set the just effect instructor detail table in that example i done it in deleteInstructorDetail">
+      <option name="closed" value="true" />
+      <created>1717571976723</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717571976723</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="made commend line app for understand one-to-one relation ship in database. but this only uni relationship.!!" />
+    <MESSAGE value="now make databases relation ship one-to-one still but added bi-directional feature. now the instructor detail table is can effect instructor table or i can set the just effect instructor detail table in that example i done it in deleteInstructorDetail" />
+    <option name="LAST_COMMIT_MESSAGE" value="now make databases relation ship one-to-one still but added bi-directional feature. now the instructor detail table is can effect instructor table or i can set the just effect instructor detail table in that example i done it in deleteInstructorDetail" />
+  </component>
+</project>
